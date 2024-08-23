@@ -1,4 +1,4 @@
 - 👋 Hi, I’m Kathleen - Jr. Developer
 - 👀 I’m interested in becoming a full-stack developer!
 - 🌱 I’m currently learning JavaScript!
-- 📫 How to reach me kathleensiria2@gmail.com
+- 📫 How to reach me kathleenspacheco@gmail.com
